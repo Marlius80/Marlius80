@@ -43,15 +43,9 @@
 </p>
 
 ---
-### 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Marlius80">
-    <img src="https://github-readme-stats.vercel.app/api?username=Marlius80&show_icons=true&theme=radical&count_private=true" alt="Marlius's GitHub Stats" />
-  </a>
-</div>
 
 <br/>
 
+<div align="center">
   <i>Let's build something amazing together! Drop me an email if you need a developer for your next big AI project.</i>
 </div>

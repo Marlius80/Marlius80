@@ -53,7 +53,5 @@
 </div>
 
 <br/>
-
-<div align="center">
   <i>Let's build something amazing together! Drop me an email if you need a developer for your next big AI project.</i>
 </div>

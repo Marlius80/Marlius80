@@ -29,7 +29,31 @@
 *An intelligent botanical assistant featuring real-time camera scanning and context-aware AI chat.*
 
 - **Live Demo:** [PlantDoc AI Web App](https://ais-pre-55wgtp7huqoju3mm547tss-90758329965.asia-southeast1.run.app)
+- **Tech Stack:** React, TypeScript, Tailwind CSS, Firebase, Google GenAI SDK.
+- **Key Features:** Zero-shot AI context transitions, role-based access control (RBAC), monetization paywalls, and robust gamification.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marlius80&show_icons=true&theme=radical&count_private=true" alt="Marlius's GitHub Stats" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,firebase,gcp,git,github" />
+  </a>
 </p>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Marlius80">
+    <img src="https://github-readme-stats.vercel.app/api?username=Marlius80&show_icons=true&theme=radical&count_private=true" alt="Marlius's GitHub Stats" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>Let's build something amazing together! Drop me an email if you need a developer for your next big AI project.</i>
+</div>

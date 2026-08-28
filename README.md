@@ -43,7 +43,6 @@
 </p>
 
 ---
-
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -53,5 +52,6 @@
 </div>
 
 <br/>
+
   <i>Let's build something amazing together! Drop me an email if you need a developer for your next big AI project.</i>
 </div>

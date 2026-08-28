@@ -56,9 +56,3 @@ Clone the repository and install the dependencies:
 git clone https://github.com/Marlius80/PlantDoc-AI.git
 cd PlantDoc-AI
 npm install
-VITE_FIREBASE_API_KEY=your_firebase_api_key
-VITE_FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
-VITE_FIREBASE_PROJECT_ID=your_firebase_project_id
-# Server-side Gemini API Key
-GEMINI_API_KEY=your_gemini_api_key
-npm run dev
